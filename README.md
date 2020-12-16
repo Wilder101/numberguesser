@@ -1,2 +1,2 @@
 # numberguesser
-A Number Guesser
+A Number Guesser (with Skeleton)
